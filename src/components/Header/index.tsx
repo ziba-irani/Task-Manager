@@ -7,6 +7,7 @@ import { formikModel } from "../Main-Page/Model"
 
 const HeaderContainer = styled.div`
   display: flex;
+  flex-wrap:wrap;
   justify-content: space-between;
   gap: 20px;
   align-items: center;
@@ -94,3 +95,4 @@ const Header = ({ handleOpenModal, openModal, mode, formik, handleMode, handleSe
 }
 
 export default Header
+
