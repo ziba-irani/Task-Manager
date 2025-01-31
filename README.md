@@ -4,7 +4,7 @@
 
 ![taskimg](https://github.com/user-attachments/assets/615c93e3-7acd-4558-8991-146110b92b0d)
 
-- [Demo Project](https://task-ivory-ten.vercel.app/)
+- [Demo Project](https://task-manager-3ggq.vercel.app/)
 
 - Developed by ziba irani
 
